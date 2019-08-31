@@ -1,8 +1,11 @@
-# flutter_google_maps
+# Google Maps in flutter
+In this tutorial we will learn to integrate Google Maps in our flutter applications using the official Google Maps plugin.
 
-A new Flutter project.
+## [Youtube Video](https://youtu.be/TdlCM3jiWb0)
 
 ## Getting Started
+To run this project, you need to place your google maps api key in android-manifest file replacing the (YOUR_API_KEY) string your api key.
+
 
 This project is a starting point for a Flutter application.
 
